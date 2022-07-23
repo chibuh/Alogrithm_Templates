@@ -31,7 +31,7 @@ int query(int l, int r) {
 int main()  {
 
     int n; cin>>n;
-    LOG = ceil(log2(n));
+    LOG = ceil(log2(n))+1;
     m = vector<vector<int>> (n,vector<int> (LOG));
 
 
