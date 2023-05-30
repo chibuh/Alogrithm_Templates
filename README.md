@@ -21,7 +21,8 @@ Practice Binary Search in the EDU section of Codeforces. Complete the Binary Sea
 
 ## Two-pointers:
 
-## Pre-computation (e.g., prefix sum, Range Queries):
+## Pre-computation 
+Prefix sum, Range Queries, etc.
 
 ## Maths/Number Theory:
 
