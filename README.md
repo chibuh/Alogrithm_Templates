@@ -31,7 +31,7 @@ Compare Sieve of Eratosthenes with prime number generation in O(n✓n).
 ## Graphs:
 #### Implementation:
 Familiarize yourself with different ways to represent graphs: 
-1. 2D matrix  (int adj[n][n])
+1. 2D matrix  ``int adj[n][n];``
 2. adjacency list
 a. ``vector<int> adj;``
 b. ``vector<vector<int>> adj;``
