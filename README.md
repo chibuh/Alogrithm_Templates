@@ -1,22 +1,23 @@
 ﻿# Alogrithm Templates
 
-## Binary Search:
-
-Practice Binary Search in the EDU section of Codeforces.
-Complete the Binary Search tutorial at IMTO Academy (Try atleast till step 2).
-
-## Dynamic Programming:
-
-You can follow the Adithya Verma Playlist for learning DP.
-Solve problems from the [Atcoders DP contest](https://atcoder.jp/contests/dp/tasks), atleast up to problem J, for practice.
-
 ## STL (Standard Template Library):
 #### Data Structures:
-Learn about strings, vectors, maps, sets, queues, priority queues, and pbds/ordered sets.
-##### Algorithms/Functions:
-Focus on sorting, linear search, binary search (including lower_bound and upper_bound), and using comparators.
+You must know how to use the following data structures - 
+1. strings
+2. vectors
+3. maps
+4. sets
+5. queues, priority queues
+6. pbds/ordered sets
 
-## Recursion & Backtracking:
+##### Algorithms/Functions:
+1. sort
+2. linear search (min_element, max_element, etc.)
+3. binary search (including lower_bound and upper_bound)
+learn to use comparators.
+
+## Binary Search:
+Practice Binary Search in the EDU section of Codeforces. Complete the Binary Search tutorial at IMTO Academy (Try atleast till step 2).
 
 ## Two-pointers:
 
@@ -24,9 +25,16 @@ Focus on sorting, linear search, binary search (including lower_bound and upper_
 
 ## Maths/Number Theory:
 
-Study GCD/LCM using Euclid's algorithm.
-Learn about binary exponentiation.
-Compare Sieve of Eratosthenes with prime number generation in O(n✓n).
+GCD/LCM using Euclid's algorithm.
+Binary exponentiation.
+Sieve of Eratosthenes in ``O(nloglogn)`` vs Prime Number generation in ``O(n✓n)``.
+
+## Recursion & Backtracking:
+
+## Dynamic Programming:
+
+You can follow the Adithya Verma Playlist for learning DP.
+Solve problems from the [Atcoders DP contest](https://atcoder.jp/contests/dp/tasks), atleast up to problem J, for practice.
 
 ## Graphs:
 #### Implementation:
