@@ -48,6 +48,7 @@ b. ``vector<vector<int>> adj;``
 #### Algorithms:
 
 Master graph traversals: BFS, DFS, in-order, pre-order, post-order.
+DSU (Disjoint Union Set)
 Path algorithms like Prim's, Kruskal's, and Dijkstra's.
 Advanced Topics:
 
